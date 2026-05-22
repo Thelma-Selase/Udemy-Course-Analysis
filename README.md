@@ -25,6 +25,8 @@ key patterns and trends, providing actionable insights to optimize course design
 - Converted columns to correct data types, e.g.,published_timestamp to datetime, price to numeric).
 - Aggregated measures like total subscribers, total revenue, and total reviews.
 
+### DATA ANALYSIS  
+
 ### Feature Engineering
 - Calculated new metrics, e.g., duration_category for easier grouping and review_ratio for further analysis.
 - Grouped data by key dimensions (subject, level, year, price tier).
